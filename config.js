@@ -15,7 +15,7 @@ global.packname = "Nexxer-Bot"
 global.author = "By: Nexxer"
 global.OwnerName = "ɴᴇxxᴇʀ-ꜱᴀᴍᴀ"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.SupportGroupLink = "https://chat.whatsapp.com/ExBAn7bi0zrDq3aSXH3Obf"
 global.sessionName = "session"
 
 
